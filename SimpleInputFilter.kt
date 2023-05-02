@@ -1,8 +1,5 @@
 import android.text.InputFilter
 import android.text.Spanned
-import com.zoho.people.utils.log.Logger.log
-import com.zoho.people.utils.log.Logger.logWithTag
-import com.zoho.people.utils.log.Logger.runIfLogsEnabled
 
 /**
  Why SimpleInputFilter?
