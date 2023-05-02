@@ -1,5 +1,3 @@
-package com.zoho.people.utils.inputfilter
-
 import android.text.InputFilter
 import android.text.Spanned
 import com.zoho.people.utils.log.Logger.log
